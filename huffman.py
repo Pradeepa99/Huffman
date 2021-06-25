@@ -2,12 +2,8 @@
 import sys
 import argparse
 import shutil
-
-
 import heapq
 import os
-
-
 
 #Defining the attributes
 class Declaration:
